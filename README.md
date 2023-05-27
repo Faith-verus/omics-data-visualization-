@@ -1,4 +1,4 @@
-This tutorial will teach you how to code a GUI interactive image of 6MFZ protein of Bacillus Subtilis strain R31 using genome sequence obtain from NCBI database and a PDB file from protein Data Bank database. This project is for the beginner programmer. 6MFZ is a nonribosomal peptide synthase - a big enzyme that produces bio active compounds that are used to treat cancer. Note; the code for this project is saved as "file.txt" in this repository. 
+An interactive GUI of the 6MFZ protein of Bacillus subtilis strain R31 using genome sequence obtained from the NCBI database and a PDB file from the Protein Data Bank database. This project is for the beginner programmer. 6MFZ is a nonribosomal peptide synthase, a big enzyme that produces bioactive compounds that are used to treat cancer.
 
 Reference:
 <br />https://science.sciencemag.org/content/366/6466/eaaw4388 
